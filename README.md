@@ -2,10 +2,10 @@
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: tsulliva@andrew.cmu.edu
-  * arpitk@andrew.cmu.edu
-  * joshuav@andrew.cmu.edu
-  * shajomar@andrew.cmu.edu
+  * Contact person: tsulliva@andrew.cmu.edu, Taylor Sullivan
+  * arpitk@andrew.cmu.edu, Arpit Kumar
+  * joshuav@andrew.cmu.edu, Joshua Vargas
+  * shajomar@andrew.cmu.edu, Sammy Hajomar
 * **Track**: TODO (one of Narrative, Model, or Interactive Visualization/Application)
 
 ## Work distribution
